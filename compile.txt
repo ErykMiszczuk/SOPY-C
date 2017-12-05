@@ -1,0 +1,5 @@
+gcc ex2-proces1.c
+// powinien się pojawić a.out
+gcc ex2-proces1.c -o proces1
+// powinien się pojawić proces1
+
