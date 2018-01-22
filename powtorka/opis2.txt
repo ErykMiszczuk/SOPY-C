@@ -1,0 +1,1 @@
+Program wypisuje argumenty podane przy jego wywołaniu, w kolejności od ostatniego do drugiego.
